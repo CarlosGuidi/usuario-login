@@ -1,0 +1,13 @@
+E:\Usuario\Usuario\bin\Debug\Usuario.exe.config
+E:\Usuario\Usuario\bin\Debug\Usuario.exe
+E:\Usuario\Usuario\bin\Debug\Usuario.pdb
+E:\Usuario\Usuario\bin\Debug\MySql.Data.dll
+E:\Usuario\Usuario\bin\Debug\MySql.Data.xml
+E:\Usuario\Usuario\obj\Debug\Usuario.csprojAssemblyReference.cache
+E:\Usuario\Usuario\obj\Debug\Usuario.frmLogin.resources
+E:\Usuario\Usuario\obj\Debug\Usuario.Properties.Resources.resources
+E:\Usuario\Usuario\obj\Debug\Usuario.csproj.GenerateResource.cache
+E:\Usuario\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+E:\Usuario\Usuario\obj\Debug\Usuario.csproj.CopyComplete
+E:\Usuario\Usuario\obj\Debug\Usuario.exe
+E:\Usuario\Usuario\obj\Debug\Usuario.pdb
